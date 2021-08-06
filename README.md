@@ -31,13 +31,13 @@ sql文件中有两张表（user.sql、book.sql），在自己的电脑上建立�
 
 localhost:8080/users/login
 
-![](\pic\login.png)
+![](/pic/login.png)
 
 ② 图书列表页面
 
 localhost:8080/index
 
-![](\pic\book.png)
+![](/pic/book.png)
 
 
 
