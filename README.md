@@ -41,5 +41,5 @@ localhost:8080/index
 
 
 
-本项目参考了牛客网上的一个项目 https://git.nowcoder.com/11000160/BookManager。
+本项目参考了牛客网上的一个项目 https://git.nowcoder.com/11000160/BookManager
 
